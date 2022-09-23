@@ -39,7 +39,7 @@ We now work on visualising our data.
 
 *Remove this text (including the stars), and add your answer for Exercise 19 here.*
 hello
-
+hello again
 ### Exercises 20--21
 
 ```{r labelled-bar-plot}
