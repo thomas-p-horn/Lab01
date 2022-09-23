@@ -38,7 +38,7 @@ We now work on visualising our data.
 ### Exercise 19
 
 *Remove this text (including the stars), and add your answer for Exercise 19 here.*
-hi
+hello
 
 ### Exercises 20--21
 
